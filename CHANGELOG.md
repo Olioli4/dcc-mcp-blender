@@ -1,5 +1,17 @@
 # Changelog
 
+## [0.2.15](https://github.com/dcc-mcp/dcc-mcp-blender/compare/v0.2.14...v0.2.15) (2026-10-06)
+
+
+### Bug Fixes
+
+* read the report schema version through Core's own API ([#282](https://github.com/dcc-mcp/dcc-mcp-blender/issues/282)) ([eee4f24](https://github.com/dcc-mcp/dcc-mcp-blender/commit/eee4f242925597398563fdbba5cf926dd02d8131))
+
+
+### Documentation
+
+* **readme:** add the generated DCC-MCP host matrix pointer ([#284](https://github.com/dcc-mcp/dcc-mcp-blender/issues/284)) ([d84aa92](https://github.com/dcc-mcp/dcc-mcp-blender/commit/d84aa92e5170754172c00678854c7f4272beaf5f))
+
 ## [0.2.14](https://github.com/dcc-mcp/dcc-mcp-blender/compare/v0.2.13...v0.2.14) (2026-10-03)
 
 
